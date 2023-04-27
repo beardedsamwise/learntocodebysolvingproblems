@@ -1,4 +1,4 @@
-https://dmoj.ca/problem/ccc06j1
+# https://dmoj.ca/problem/ccc06j1
 
 burger = {"cheese" : 461, "fish" : 431, "veggie" : 420, "no_burger": 0}
 drink = {"soft_drink" : 130, "orange_juice" : 160, "milk" : 118, "no_drink" : 0}

@@ -1,4 +1,4 @@
-https://dmoj.ca/problem/ccc18j1
+# https://dmoj.ca/problem/ccc18j1
 
 def is_telemarketer(digit_1, digit_2, digit_3, digit_4):
     digit_1 = int(digit_1)
