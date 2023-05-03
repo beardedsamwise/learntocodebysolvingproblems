@@ -15,11 +15,11 @@ def is_distinct(year):
 
 # Main Program
 
-# get input year where year is an integer representing the starting year
+# get input year where year is an integer representing the starting year + 1 
 
 year = int(input()) + 1
 
-# loop through range of years from Year + 1 to 10000 and check for distinct year 
+# check years for eternity until a distinct year is found
 
 while True:
     if is_distinct(year):
